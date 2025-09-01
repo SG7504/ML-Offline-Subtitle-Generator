@@ -1,4 +1,4 @@
-#Real-Time Subtitle Generation AI:  
+# Real-Time Subtitle Generation AI:  
 Redefining Accessibility and Live Translation
 
 What It Does:
