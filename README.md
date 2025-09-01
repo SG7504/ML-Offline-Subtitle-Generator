@@ -84,4 +84,6 @@ Cross-Industry Utility: Applicable across entertainment, education, corporate, a
 Closing Statement:
 
 Real-Time Subtitle Generation AI is more than just a subtitle generator—it’s a transformative tool designed to foster global communication, inclusivity, and engagement. By combining cutting-edge technology with practical applications, it addresses critical challenges while opening doors to new opportunities. This innovation represents the future of accessible, multilingual content creation for a connected world.
+
+
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
