@@ -1,5 +1,5 @@
-# GFGKIIT-Wanderers-Hyperthon
-Real-Time Subtitle Generation AI: Redefining Accessibility and Live Translation
+#Real-Time Subtitle Generation AI:  
+Redefining Accessibility and Live Translation
 
 What It Does:
 
